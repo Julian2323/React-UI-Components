@@ -1,0 +1,43 @@
+
+
+.container {
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.answer {
+    background-color: black;
+    color: white;
+    width: 400px;
+    text-align: end;
+}
+
+.row{
+    display: flex;
+    width: 400px;
+    height:80px;
+    background-color: white;
+}
+
+.clear-button {
+    background-color: lightgrey;
+    width: 300px;
+    text-align: center;
+}
+
+.action {
+    background-color: darkred;
+    width: 100px;
+    color: white;
+    text-align: center;
+}
+
+.numbers {
+    width: 100px;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+
+}
