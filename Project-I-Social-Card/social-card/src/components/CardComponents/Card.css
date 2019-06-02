@@ -1,1 +1,16 @@
 /* All styles for your Card Components live here */
+.card-container {
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    margin-left: 15%;
+}
+
+.lite-grey {
+    color: grey;
+}
+
+.bottom-card {
+    border-left: 1px solid grey;
+    padding-left: 5%;
+}
